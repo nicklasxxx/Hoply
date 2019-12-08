@@ -1,8 +1,8 @@
 # Hoply
 
-A social media program, as the database course: 
+My course on databases required us to make a social media app, called hoply.
 
-you can see image and interest SQL from it below: 
+you can see image of the app and interesting sql quieries below: 
 
 <img width="595" alt="usersQ" src="https://user-images.githubusercontent.com/14975455/62775185-44e9f980-baa7-11e9-99e1-36f197976f1a.png">
 <img width="638" alt="MessageQ" src="https://user-images.githubusercontent.com/14975455/62775186-44e9f980-baa7-11e9-9af7-ff9ae57f0a55.png">
